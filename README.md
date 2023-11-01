@@ -12,8 +12,8 @@ I'm a aspiring full-stack developer and Minecraft enthusiast located in Germany.
 - React ⚛️
 - Node.js 📦
 - MySQL 📀
-- Typescript
-- Kotlin
+- TypeScript ⌨️
+- Kotlin 📱
 
 ## Projects 
 
