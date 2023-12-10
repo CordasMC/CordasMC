@@ -25,7 +25,7 @@ I'm a aspiring full-stack developer and Minecraft enthusiast located in Germany.
 
 ## Contact Me
 
-- E-Mail - contact@cordas.info
+- E-Mail - contact@cordas.info [ maintenance ]
 - Discord - cordas 💬
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech! I'm always open to new opportunities and connections.
