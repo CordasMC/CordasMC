@@ -17,15 +17,10 @@ I'm a aspiring full-stack developer and Minecraft enthusiast located in Germany.
 
 ## Projects 
 
-- [Unreleased Personal Website](https://cordas.info) 💻
-- Minecraft Development 🎮
-  - Developer @ Crystal-Ranked
-  - Manager @ firevanilla
-  - Developer @ UpperclassEU
+- View all my projects here: [Personal Website](https://justustobias.org) 💻
 
 ## Contact Me
 
-- E-Mail - contact@cordas.info [ maintenance ]
-- Discord - cordas 💬
+- View my contact information here: [Personal Website](https://justustobias.org) 💻
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech! I'm always open to new opportunities and connections.
