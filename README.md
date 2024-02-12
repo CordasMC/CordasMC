@@ -1,19 +1,8 @@
-# Hi there, I'm Justus aka Cordas 👋
+# Hi there, I'm Justus👋
 
 ## About Me 
 
-I'm a aspiring full-stack developer and Minecraft enthusiast located in Germany. I'm currently learning web development and improving my skills in Java. In my free time, I work on creating plugins and mods for Minecraft servers.
-
-## Skills
-
-- Java ☕
-- JavaScript 💻
-- HTML/CSS 🎨
-- React ⚛️
-- Node.js 📦
-- MySQL 📀
-- TypeScript ⌨️
-- Kotlin 📱
+Im a Java & Discord-Bot Developer! In my free time, I'm always trying to improve my Life. I also like reading, one of my favorite books: [All Quiet on the Western Front](https://www.thriftbooks.com/w/all-quiet-on-the-western-front_harold-bloom_glencoe/247416/#edition=2396460&idiq=3443927) 📖
 
 ## Projects 
 
