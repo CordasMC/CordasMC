@@ -12,4 +12,4 @@ Im a Java & Discord-Bot Developer! In my free time, I'm always trying to improve
 
 - View my contact information here: [Personal Website](https://justustobias.org) 💻
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech! I'm always open to new opportunities and connections.
+Feel free to reach out if you want to collaborate on a project or just chat. I'm always open to new opportunities and connections.
