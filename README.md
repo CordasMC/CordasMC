@@ -2,7 +2,8 @@
 
 ## About Me 
 
-Im a Java & Discord-Bot Developer! In my free time, I'm always trying to improve my Life. I also like reading, one of my favorite books: [All Quiet on the Western Front](https://www.thriftbooks.com/w/all-quiet-on-the-western-front_harold-bloom_glencoe/247416/#edition=2396460&idiq=3443927) 📖
+I'm a highly experienced Freelance Marketer, aswell as Programmer! I use Java, JavaScript and Python to develop Discord Bots, Minecraft Plugins & more! I'm currently on track to 
+monetise these Skills. If you want to work with me, hit me up!
 
 ## Projects 
 
