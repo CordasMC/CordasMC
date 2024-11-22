@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justus!</h1>
 <h3 align="center">Student, freelancing in Software! I write Discord Bots, Minecraft Plugins & more!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cordasmc&label=Profile%20views&color=0e75b6&style=flat" alt="cordasmc" /> </p>
-
 - 🔭 I’m currently working on [Seagull Development](https://seagulldev.net)
 
 - 🌱 I’m always learning: **Bukkit, d.py & more!**
