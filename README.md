@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justus!</h1>
-<h3 align="center">Student, freelancing in Software! I write Discord Bots, Minecraft Plugins & more!</h3>
+<h3 align="center">Student, freelancing in Software</h3>
 
-- 🔭 I’m currently working on [Seagull Development](https://seagulldev.net)
-
-- 🌱 I’m always learning: **Bukkit, d.py & more!**
-
-- 🤝 I’m looking for help with [Seagull Development](https://seagulldev.net)
-
-- 💬 Ask me about **anything related to Java**
-
-- 📫 How to reach me **contact@seagulldev.net | business@justusbuilds.com**
+📫 Get in touch: 
+- Discord: @cordas
+- Mail: justus@jstus.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
